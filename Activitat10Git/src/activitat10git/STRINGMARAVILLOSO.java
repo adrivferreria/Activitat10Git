@@ -8,7 +8,7 @@ package activitat10git;
 public class STRINGMARAVILLOSO {
     
     public static void print() {
-        System.out.println("La versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
+        System.out.println("La versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local ");
     }
     
     public static void parteSuperior(String M) {
